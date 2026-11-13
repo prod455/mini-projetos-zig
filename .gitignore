@@ -1,0 +1,9 @@
+.zig-cache/
+/live-repl/
+zig-out/
+*.pdb
+*.exe
+*.obj
+*.lib
+.env
+.env.*
